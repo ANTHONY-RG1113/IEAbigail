@@ -1,0 +1,120 @@
+{
+    "horarios": {
+      "inicial": [
+      ["8:00 - 8:45", "Juego libre", "Juego libre", "Juego libre", "Juego libre", "Juego libre"],
+      ["8:45 - 9:30", "Educación física", "Educación física", "Educación física", "Educación física", "Educación física"],
+      ["9:30 - 10:15", "Descanso", "Descanso", "Descanso", "Descanso", "Descanso"],
+      ["10:15 - 11:00", "Arte", "Arte", "Arte", "Arte", "Arte"],
+      ["11:00 - 11:45", "Juego educativo", "Juego educativo", "Juego educativo", "Juego educativo", "Juego educativo"]
+    ],
+    "primaria1": [
+      ["8:00 - 8:45", "Matemáticas", "Lengua", "Ciencias", "Historia", "Educación física"],
+      ["8:45 - 9:30", "Ciencias", "Matemáticas", "Lengua", "Arte", "Ciencias"],
+      ["9:30 - 10:15", "Lengua", "Historia", "Matemáticas", "Lengua", "Matemáticas"],
+      ["10:15 - 10:30", "Descanso", "Descanso", "Descanso", "Descanso", "Descanso"],
+      ["10:30 - 11:15", "Arte", "Ciencias", "Matemáticas", "Historia", "Lengua"],
+      ["11:15 - 12:00", "Historia", "Arte", "Ciencias", "Lengua", "Matemáticas"]
+    ],
+    "primaria2": [
+      ["8:00 - 8:45", "Matemáticas", "Lengua", "Ciencias", "Educación física", "Historia"],
+      ["8:45 - 9:30", "Arte", "Matemáticas", "Lengua", "Ciencias", "Educación física"],
+      ["9:30 - 10:15", "Lengua", "Historia", "Matemáticas", "Ciencias", "Lengua"],
+      ["10:15 - 10:30", "Descanso", "Descanso", "Descanso", "Descanso", "Descanso"],
+      ["10:30 - 11:15", "Ciencias", "Matemáticas", "Historia", "Lengua", "Arte"],
+      ["11:15 - 12:00", "Historia", "Lengua", "Ciencias", "Matemáticas", "Educación física"]
+    ],
+    "primaria3": [
+      ["8:00 - 8:45", "Matemáticas", "Lengua", "Historia", "Ciencias", "Educación física"],
+      ["8:45 - 9:30", "Ciencias", "Matemáticas", "Lengua", "Arte", "Historia"],
+      ["9:30 - 10:15", "Lengua", "Ciencias", "Matemáticas", "Lengua", "Ciencias"],
+      ["10:15 - 10:30", "Descanso", "Descanso", "Descanso", "Descanso", "Descanso"],
+      ["10:30 - 11:15", "Arte", "Historia", "Matemáticas", "Lengua", "Ciencias"],
+      ["11:15 - 12:00", "Historia", "Arte", "Ciencias", "Lengua", "Educación física"]
+    ],
+    "primaria4": [
+      ["8:00 - 8:45", "Matemáticas", "Lengua", "Ciencias", "Educación física", "Historia"],
+      ["8:45 - 9:30", "Historia", "Matemáticas", "Lengua", "Arte", "Ciencias"],
+      ["9:30 - 10:15", "Lengua", "Historia", "Matemáticas", "Ciencias", "Lengua"],
+      ["10:15 - 10:30", "Descanso", "Descanso", "Descanso", "Descanso", "Descanso"],
+      ["10:30 - 11:15", "Ciencias", "Matemáticas", "Historia", "Lengua", "Arte"],
+      ["11:15 - 12:00", "Historia", "Lengua", "Ciencias", "Matemáticas", "Educación física"]
+    ],
+    "primaria5": [
+      ["8:00 - 8:45", "Matemáticas", "Lengua", "Ciencias", "Educación física", "Historia"],
+      ["8:45 - 9:30", "Ciencias", "Matemáticas", "Lengua", "Arte", "Historia"],
+      ["9:30 - 10:15", "Lengua", "Historia", "Matemáticas", "Ciencias", "Lengua"],
+      ["10:15 - 10:30", "Descanso", "Descanso", "Descanso", "Descanso", "Descanso"],
+      ["10:30 - 11:15", "Arte", "Matemáticas", "Ciencias", "Lengua", "Historia"],
+      ["11:15 - 12:00", "Historia", "Arte", "Ciencias", "Matemáticas", "Educación física"]
+    ],
+    "primaria6": [
+      ["8:00 - 8:45", "Matemáticas", "Lengua", "Ciencias", "Historia", "Educación física"],
+      ["8:45 - 9:30", "Historia", "Matemáticas", "Lengua", "Ciencias", "Arte"],
+      ["9:30 - 10:15", "Lengua", "Historia", "Matemáticas", "Ciencias", "Lengua"],
+      ["10:15 - 10:30", "Descanso", "Descanso", "Descanso", "Descanso", "Descanso"],
+      ["10:30 - 11:15", "Arte", "Historia", "Matemáticas", "Lengua", "Ciencias"],
+      ["11:15 - 12:00", "Historia", "Arte", "Ciencias", "Matemáticas", "Educación física"]
+    ],
+    "secundaria1": [
+      ["8:00 - 8:45", "Física", "Matemáticas", "Química", "Historia", "Inglés"],
+      ["8:45 - 9:30", "Matemáticas", "Inglés", "Química", "Física", "Educación física"],
+      ["9:30 - 10:15", "Historia", "Química", "Lengua", "Física", "Ciencias Sociales"],
+      ["10:15 - 10:30", "Descanso", "Descanso", "Descanso", "Descanso", "Descanso"],
+      ["10:30 - 11:15", "Inglés", "Matemáticas", "Física", "Historia", "Lengua"],
+      ["11:15 - 12:00", "Lengua", "Educación física", "Historia", "Ciencias Sociales", "Matemáticas"]
+    ],
+    "secundaria2": [
+      ["8:00 - 8:45", "Física", "Matemáticas", "Historia", "Química", "Inglés"],
+      ["8:45 - 9:30", "Matemáticas", "Química", "Lengua", "Física", "Educación física"],
+      ["9:30 - 10:15", "Historia", "Ciencias Sociales", "Lengua", "Química", "Física"],
+      ["10:15 - 10:30", "Descanso", "Descanso", "Descanso", "Descanso", "Descanso"],
+      ["10:30 - 11:15", "Inglés", "Matemáticas", "Física", "Historia", "Química"],
+      ["11:15 - 12:00", "Lengua", "Educación física", "Historia", "Ciencias Sociales", "Matemáticas"]
+    ],
+    "secundaria3": [
+      ["8:00 - 8:45", "Matemáticas", "Lengua", "Historia", "Física", "Química"],
+      ["8:45 - 9:30", "Ciencias Sociales", "Matemáticas", "Lengua", "Física", "Educación física"],
+      ["9:30 - 10:15", "Lengua", "Historia", "Matemáticas", "Ciencias Sociales", "Física"],
+      ["10:15 - 10:30", "Descanso", "Descanso", "Descanso", "Descanso", "Descanso"],
+      ["10:30 - 11:30", "Química", "Física", "Historia", "Lengua", "Ciencias Sociales"],
+      ["11:30 - 1:00", "Historia", "Arte", "Lengua", "Matemáticas", "Educación física"]
+    ],
+    "secundaria4": [
+      ["8:00 - 8:45", "Matemáticas", "Lengua", "Historia", "Física", "Química"],
+      ["8:45 - 9:30", "Ciencias Sociales", "Matemáticas", "Lengua", "Física", "Educación física"],
+      ["9:30 - 10:15", "Lengua", "Historia", "Matemáticas", "Ciencias Sociales", "Física"],
+      ["10:15 - 10:30", "Descanso", "Descanso", "Descanso", "Descanso", "Descanso"],
+      ["10:30 - 11:30", "Química", "Física", "Historia", "Lengua", "Ciencias Sociales"],
+      ["11:30 - 1:00", "Historia", "Arte", "Lengua", "Matemáticas", "Educación física"]
+    ],
+    "secundaria5": [
+      ["8:00 - 8:45", "Matemáticas", "Lengua", "Historia", "Física", "Química"],
+      ["8:45 - 9:30", "Ciencias Sociales", "Matemáticas", "Lengua", "Física", "Educación física"],
+      ["9:30 - 10:15", "Lengua", "Historia", "Matemáticas", "Ciencias Sociales", "Física"],
+      ["10:15 - 10:30", "Descanso", "Descanso", "Descanso", "Descanso", "Descanso"],
+      ["10:30 - 11:30", "Química", "Física", "Historia", "Lengua", "Ciencias Sociales"],
+      ["11:30 - 1:00", "Historia", "Arte", "Lengua", "Matemáticas", "Educación física"]
+    ]   
+    },
+    "matriculas": [ 
+    {
+      "nivel": "Inicial",
+      "costo": 200,
+      "descripcion": "La matrícula para el Nivel Inicial está dirigida a niños que comienzan su formación educativa. En esta etapa, los pequeños desarrollan habilidades sociales, emocionales y cognitivas a través de actividades lúdicas y educativas, en un entorno seguro y estimulante.",
+      "imagen": "imagenes/inicial.jpg"
+    },
+    {
+      "nivel": "Primaria",
+      "costo": 250,
+      "descripcion": "La matrícula para el Nivel Primaria cubre desde primer grado hasta sexto grado. Durante estos años, los estudiantes desarrollan habilidades fundamentales en áreas como matemáticas, lenguaje y ciencias naturales.",
+      "imagen": "imagenes/primaria.jpg"
+    },
+    {
+      "nivel": "Secundaria",
+      "costo": 300,
+      "descripcion": "La matrícula de Secundaria está diseñada para alumnos de primero a sexto de secundaria. En esta etapa, se profundiza en conocimientos de áreas como ciencias, matemáticas, historia y lenguas extranjeras.",
+      "imagen": "imagenes/secundaria.jpg"
+    }
+  ]
+  }
+  

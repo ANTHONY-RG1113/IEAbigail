@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Horario de Clases</title>
+    <link rel="stylesheet" href="css/horario.css">
+</head>
+<body>
+    <header>
+        <h1>Centro Educativo "ABIGAIL"</h1>
+        <nav>
+            <ul>
+                <li><a href="inicio.html">Inicio</a></li>
+                <li><a href="matricula.php">Matricula</a></li>
+                <li><a href="#">Ubicación</a></li>
+                <li><a href="horario.html">Horario</a></li>
+                <li><a href="login.php">Ingresar</a></li>
+                <li><a href="registro.html">Registrate</a></li>
+                <li><a href="estudiantes.php">Estudiantes</a></li>
+                <li>
+                    <select id="seleccion">
+                        <option value="">Selecciona un grado</option>
+                        <option value="inicial">Inicial</option>
+                        <option value="primaria1">Primero de Primaria</option>
+                        <option value="primaria2">Segundo de Primaria</option>
+                        <option value="primaria3">Tercero de Primaria</option>
+                        <option value="primaria4">Cuarto de Primaria</option>
+                        <option value="primaria5">Quinto de Primaria</option>
+                        <option value="primaria6">Sexto de Primaria</option>
+                        <option value="secundaria1">Primero de Secundaria</option>
+                        <option value="secundaria2">Segundo de Secundaria</option>
+                        <option value="secundaria3">Tercero de Secundaria</option>
+                        <option value="secundaria4">Cuarto de Secundaria</option>
+                        <option value="secundaria5">Quinto de Secundaria</option>
+                    </select>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    
+    <h1 id="tituloHorario">Horario de Clases</h1>
+    <main>
+        <table id="horarioTable">
+            <thead>
+                <tr>
+                    <th>Hora</th>
+                    <th>Lunes</th>
+                    <th>Martes</th>
+                    <th>Miércoles</th>
+                    <th>Jueves</th>
+                    <th>Viernes</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
